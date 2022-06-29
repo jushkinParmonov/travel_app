@@ -1,0 +1,5 @@
+class Information{
+  static final String bukhara = 'Population: ca. 300 000\nAltitude: 220 meters above sea level (738ft)\nFounded: more than 2000 years ago';
+  static final String samarkand = 'Oʻzbekiston Respublikasining qadimiy shaharlaridan biri,Oʻzbekistonning janubi-gʻarbida, Zarafshon vodiysining markaziy qismida (Dargʻom va Siyob kanallari orasida) joylashgan. Oʻrtacha 695 m balandlikda. Toshkentdan 300 km.Ko\'plab tarixiy joylarga ega qadimiy shahar.';
+  static final String khorezm = 'Xorazm (arabcha: خوارزم) — Amudaryo sohillarida markazga ega Oʻrta Osiyo qadimiy mintaqasi — qadimiy davlat va rivojlangan irrigatsiyali dehqonchilik, hunarmandlik va savdo mintaqasi. Xorazm orqali Buyuk Ipak yoʻli oʻtgan. III asr oxirlarida Xorazm poytaxti Kat shahri boʻlgan, X asr oxirlarida poytaxt Urganch shahriga koʻchiriladi (hozirgi Koʻhna Urganch shahri).';
+}
